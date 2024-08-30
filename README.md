@@ -1,6 +1,6 @@
-Tecnologias utilizadas: Html, JavaScript, React + Vite, ReactBootstrap
+Technologies used: Html, JavaScript, React + Vite, ReactBootstrap
 
-Link do site disponibilizado: https://dnc-weather-l.netlify.app
+Website link available: [Weather forecast](https://dnc-weather-l.netlify.app)
 
 
 Currently, two official plugins are available: 
